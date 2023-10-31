@@ -1,0 +1,4 @@
+fload put x=10 with 10 to 10.0
+int is used for number and string number like #"123"
+TRY: is given for code while EXCEPT: is used to detect error "
+if x>1 / elif x>=0.7 / elif x=0 / else error or done  "

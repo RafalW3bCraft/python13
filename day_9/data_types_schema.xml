@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<xs:element name='customer' type='xs:string'/>
+<xs:element name='start' type:'xs:date'/>
+<xs:element name='startdate' type='xs:dateTime' />
+<xs:element name='prize' type:'decimal'/>
+<xs:element name='weeks' type:'integer'/>

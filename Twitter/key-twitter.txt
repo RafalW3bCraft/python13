@@ -1,0 +1,14 @@
+api_key=T0O0kBC6L6Y9364XvB4ZCmjOE
+api_key_secret=3k0NpzAZucwclKgFNEkDv010UCxj2gNy0N7FngrZbpe2xmuGPu
+Bearer_token=AAAAAAAAAAAAAAAAAAAAAHP1qgEAAAAAthcuRpt%2Bdw1m1b%2FadBU%2BrOUGxSc%3D1KYBsnoxHNdME5m1DtgjLPLjv0EdQnlu7SYoivJ4mZAVkFj5Me
+Access_token=1647893887401472000-Izrux3KdZ2yLTErxM1v2uIpX0eCrJP
+Access_token_secret=6DKqlA7lWdyGIY9CLvOQGnQIWorsafBZUA6cRyWj3uyP3
+
+
+<!-- Pixel Code for https://proofmonster.com/ -->
+<script defer src="https://proofmonster.com/pixel/5szevcobabyd31r6mbr8uof9agh0bdx6"></script>
+<!-- END Pixel Code -->
+
+
+client_id=VmMxc3J3aVQ5UFJoc3RNNmo2bVY6MTpjaQ
+client_secret=-8rJv7SqsdWz9-KhNoFqdixN98vXMLXhCMYZFHh38zVz0nCpXk

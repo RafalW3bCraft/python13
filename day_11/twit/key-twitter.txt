@@ -1,0 +1,17 @@
+Access Token = 1647893887401472000-UeQkeW0HaQwrWpLvHxLpJ3Tc0eBNKQ
+
+Access Token Secret = Q2as39GHyBEqAcWTeIukwGDcCJtyqyMui7qt8DsEx4oUZ
+
+
+API Key = TpWV5YbdyJ2GvRcPwdiq5Pcpn
+
+API Key Secret = gL4eoftaQrN0tNuNJy8Fb6mZpPgjP2F0Enm9kVHMJDHwFxckF9
+
+Bearer Token = AAAAAAAAAAAAAAAAAAAAAI0SqwEAAAAAcHrDkHIHMsvep2rerIa5WkdDYtU%3DyJBdIA0i5w6oiZI85VzuaCyPCdLAddEtry6C1ds20LAuYjNxcY
+
+<!-- Pixel Code for https://proofmonster.com/ -->
+<script defer src="https://proofmonster.com/pixel/5szevcobabyd31r6mbr8uof9agh0bdx6"></script>
+<!-- END Pixel Code -->
+
+
+client_id=X3JDdXE4TWxtMEwwOU5LcU5fMGw6MTpjaQ client_secret=kmdkAW5CEvQfcjtuDuH3FAiVeyPNuq4WNqL9qOmzGtRMABENwQ
